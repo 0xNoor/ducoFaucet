@@ -177,3 +177,12 @@ table {
 
 }
 
+#box {
+	background-color: black;
+	background-color: transparent;
+	width: 85vw;
+	padding: 5vw;
+	border: 1vw solid black;
+	margin: 0;
+}
+
